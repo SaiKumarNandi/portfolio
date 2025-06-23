@@ -105,7 +105,7 @@ const Projects = () => {
         "/chattr_home.png",
       ],
       github: "https://github.com/SaiKumarNandi/chattr.git",
-    //  live: "https://airchat-yvs0.onrender.com/",
+      live: "https://chattr-5366.onrender.com/",
       tags: [
         "MongoDB",
         "Express.js",
